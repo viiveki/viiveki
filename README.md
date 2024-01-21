@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vinícius Araújo</h1>
 
-<p align="center">
-![monophy](https://github.com/viiveki/viiveki/assets/113684574/2d8fac38-4471-4ac9-920d-12e48cd3d5e5)
-</p>
+<img align="center" src="https://github.com/viiveki/viiveki/assets/113684574/2d8fac38-4471-4ac9-920d-12e48cd3d5e5"/>
 
 <h3 align="center">Just a young programmer with a passion for what he does. I'm currently working with Visual Basic 6 and MSSQL, but I've worked with Delphi and MySQL in the past. So the languages I have the most time in are Pascal, Visual Basic and Python, but I'm always looking for challenges and constant learning. I'll try my best to create amazing things! 💻</h3>
 
