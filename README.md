@@ -6,8 +6,8 @@
 
 <h3 align="center">Just a young programmer with a passion for what he does. I'm currently working with Visual Basic 6 and MSSQL, but I've worked with Delphi and MySQL in the past. So the languages I have the most time in are Pascal, Visual Basic and Python, but I'm always looking for challenges and constant learning. I'll try my best to create amazing things! 💻</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/vialvesaraujo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vialvesaraujo" height="30" width="40" /></a>
 </p>
 
