@@ -1,7 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/viiveki/viiveki/blob/main/header.png" />
 &nbsp;&nbsp;&nbsp;
 
-<h3 align="center">Just a young programmer with a passion for what he does. I'm currently working with Visual Basic 6 and MSSQL, but I've worked with Delphi and MySQL in the past. So the languages I have the most time in are Pascal, Visual Basic and Python, but I'm always looking for challenges and constant learning. I'll try my best to create amazing things! 💻</h3>
+<p align="center"><strong>Just a young programmer with a passion for what he does. I'm currently working with Visual Basic 6 and MSSQL, but I've worked with Delphi and MySQL in the past. So the languages I have the most time in are Pascal, Visual Basic and Python, but I'm always looking for challenges and constant learning. I'll try my best to create amazing things! 💻</strong></p>
+&nbsp;&nbsp;&nbsp;
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
