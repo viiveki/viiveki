@@ -23,6 +23,7 @@
 <h3 align="left">Languages:</h3>
 <p align="left">
 <img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Visual Basic-512BD4?logo=visual-basic&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"/>
